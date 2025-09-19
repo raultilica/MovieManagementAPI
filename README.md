@@ -1,3 +1,0 @@
-# MovieManagementAPI
-
-WILL BE ADDED
